@@ -2,6 +2,7 @@
 
 ## Recomendo que tenha o [nodemon](https://www.npmjs.com/package/nodemon) instalado para que possa rodar a compilação com mais facilidade
 ## Cheque a documentação do [TS](https://www.typescriptlang.org/) e instale em sua máquina
+## Passe pela [Wiki](https://github.com/araujoizabelle/ts-basic-course/wiki), eu separei todos os arquivos e o que fazem por lá!
 
 ```
 ## Clone este repositório
